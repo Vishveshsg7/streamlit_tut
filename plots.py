@@ -35,4 +35,12 @@ city = pd.DataFrame({
 st.map(city)
 st.map()
 
+# for adding image
 st.image("https://www.google.com/url?sa=i&url=https%3A%2F%2Fletsenhance.io%2F&psig=AOvVaw1sugHR4VcQhmBlkZK9fhOj&ust=1720720903399000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOiOt4OHnYcDFQAAAAAdAAAAABAE")
+
+#for Audio
+st.audio("")
+
+#for adding video
+st.video("")
+
